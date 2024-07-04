@@ -1,0 +1,84 @@
+*{
+    background-color: black;
+}
+.box{
+    background-color: rgba(245, 245, 245, 0.76);
+    height: 550px;
+    margin-top: 50px;
+    margin: auto;
+    width: 30%;
+    
+}
+.box2{
+    border: 2px solid rgba(26, 19, 19, 0.575);
+    height: 510px;
+    width: 80%;
+    position: relative;
+    left: 35px;
+    top: 15px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+.picture{
+    background-image: url(https://wikibio.in/wp-content/uploads/2023/03/Karan-Aujla.jpg);
+    background-size: cover;
+    position: relative;
+    height: 210px;
+    width: 96%;
+    left: 5px;
+    top: 5px;
+    border-radius: 10px;
+
+}
+.mybutton{
+    background-color: aliceblue;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-style: normal;
+    border-color: rgba(240, 248, 255, 0.966);
+}
+.mybutton1{
+    background-color: aliceblue;
+    position: relative;
+    top: 20px;
+    left: 30px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-style: normal;
+    border-color: rgba(240, 248, 255, 0.966);
+}
+.mybutton2{
+    background-color: aliceblue;
+    position: relative;
+    top: 250px;
+    padding: 10px;
+    border-radius: 100px;
+    font-size: 13px;
+    font-style: normal;
+    margin-inline: 2px;
+    border-color: rgba(240, 248, 255, 0.966);
+    background-color: rgb(128, 195, 250);
+    color: rgb(6, 59, 233);
+}
+h1{
+    font-size: 30px;
+    display: inline-block;
+    font-style: arial;
+    position: relative;
+    top: 8px;
+    left: 15px;
+}
+h4{
+    position: relative;
+    display: inline-block;
+    left:3px;
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    position: relative;
+    text-align: center;
+}
